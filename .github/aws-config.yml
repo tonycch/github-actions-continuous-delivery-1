@@ -16,7 +16,7 @@
 # AWS S3 Bucket for package and deploy #
 ########################################
 # NOTE: This bucket must exist before the GitHub Action, and match the name of your S3 bucket on Amazon
-s3_bucket: tinygithub
+s3_bucket: tinygithubbucket
 
 ##################################
 # AWS Cloud Formation Stack name #
